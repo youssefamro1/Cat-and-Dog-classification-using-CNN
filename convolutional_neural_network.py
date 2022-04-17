@@ -1,5 +1,5 @@
 # Convolutional Neural Network
-
+#dataset link : https://www.kaggle.com/competitions/dogs-vs-cats/data
 # Importing the libraries
 import tensorflow as tf
 from keras.preprocessing.image import ImageDataGenerator
